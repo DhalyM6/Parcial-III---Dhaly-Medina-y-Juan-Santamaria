@@ -1,0 +1,174 @@
+ .u-section-1 {
+  background-image: url("images/fondo-de-la-textura-del-amarillo-de-la-mostaza-del-safari-97845059.jpg");
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 758px;
+}
+
+.u-section-1 .u-text-1 {
+  font-family: MagnoliaScript;
+  font-size: 3.75rem;
+  text-align: start;
+  margin: 52px auto 0 20px;
+}
+
+.u-section-1 .u-line-1 {
+  height: 3px;
+  transform-origin: right center 0px;
+  width: 878px;
+  margin: 0 0 0 auto;
+}
+
+.u-section-1 .u-text-2 {
+  font-family: Amaranth-BoldItalic;
+  font-size: 2.5rem;
+  text-align: start;
+  margin: 103px auto 0 801px;
+}
+
+.u-section-1 .u-text-3 {
+  font-family: Amaranth-BoldItalic;
+  font-size: 2.5rem;
+  text-align: start;
+  margin: -44px auto 0 226px;
+}
+
+.u-section-1 .u-text-4 {
+  font-size: 1.5625rem;
+  line-height: 1.2;
+  margin: 20px 659px 0 89px;
+}
+
+.u-section-1 .u-text-5 {
+  font-size: 1.5625rem;
+  line-height: 1.2;
+  text-align: center;
+  margin: -240px 89px 0 659px;
+}
+
+.u-section-1 .u-image-1 {
+  width: 432px;
+  height: 137px;
+  margin: 110px auto 60px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 625px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-left: 660px;
+  }
+
+  .u-section-1 .u-text-4 {
+    margin-right: 548px;
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-text-5 {
+    margin-right: 0;
+    margin-left: 548px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 479px;
+  }
+
+  .u-section-1 .u-line-1 {
+    width: 720px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-left: 506px;
+  }
+
+  .u-section-1 .u-text-4 {
+    margin-right: 328px;
+  }
+
+  .u-section-1 .u-text-5 {
+    margin-left: 328px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 359px;
+  }
+
+  .u-section-1 .u-line-1 {
+    width: 540px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-left: 380px;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-left: 170px;
+  }
+
+  .u-section-1 .u-text-4 {
+    margin-right: 148px;
+  }
+
+  .u-section-1 .u-text-5 {
+    margin-left: 148px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 197px;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 3rem;
+  }
+
+  .u-section-1 .u-line-1 {
+    width: 340px;
+  }
+
+  .u-section-1 .u-text-2 {
+    font-size: 1.5rem;
+    margin-left: 239px;
+  }
+
+  .u-section-1 .u-text-3 {
+    font-size: 1.5rem;
+    margin-left: 107px;
+  }
+
+  .u-section-1 .u-text-4 {
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-text-5 {
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 340px;
+    height: 108px;
+  }
+}@font-face {
+  font-family: 'MagnoliaScript';
+  font-style: normal;
+  font-weight: 400;
+  src: url(fonts/MagnoliaScript.otf);
+}@font-face {
+  font-family: 'Amaranth-BoldItalic';
+  font-style: normal;
+  font-weight: 400;
+  src: url(fonts/Amaranth-BoldItalic.ttf);
+}@font-face {
+  font-family: 'Anaktoria';
+  font-style: normal;
+  font-weight: 400;
+  src: url(fonts/Anaktoria.otf);
+}

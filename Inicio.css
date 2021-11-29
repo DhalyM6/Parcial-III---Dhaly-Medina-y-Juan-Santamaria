@@ -1,0 +1,854 @@
+ .u-section-1 {
+  background-image: url("images/fondo-de-la-textura-del-amarillo-de-la-mostaza-del-safari-97845059.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 750px;
+}
+
+.u-section-1 .u-image-1 {
+  width: 350px;
+  height: 562px;
+  margin: 79px auto 0 327px;
+}
+
+.u-section-1 .u-text-1 {
+  font-size: 5rem;
+  font-family: MagnoliaScript;
+  letter-spacing: 2px;
+  font-weight: normal;
+  margin: -413px 160px 0 auto;
+}
+
+.u-section-1 .u-image-2 {
+  width: 247px;
+  height: 400px;
+  margin: -164px auto 0 40px;
+}
+
+.u-section-1 .u-text-2 {
+  font-size: 2.1875rem;
+  font-style: normal;
+  font-weight: 700;
+  font-family: Amaranth-BoldItalic;
+  margin: -228px 198px 0 696px;
+}
+
+.u-section-1 .u-text-3 {
+  font-size: 1.875rem;
+  font-style: normal;
+  text-align: start;
+  font-family: Anaktoria;
+  line-height: 1.2;
+  font-weight: normal;
+  margin: 0 134px 0 696px;
+}
+
+.u-section-1 .u-shape-1 {
+  width: 19px;
+  height: 19px;
+  background-image: none;
+  margin: 20px 178px 0 auto;
+}
+
+.u-section-1 .u-shape-2 {
+  width: 19px;
+  height: 19px;
+  background-image: none;
+  margin: -19px 90px 0 auto;
+}
+
+.u-section-1 .u-shape-3 {
+  width: 19px;
+  height: 19px;
+  background-image: none;
+  margin: -19px 134px 0 auto;
+}
+
+.u-section-1 .u-line-1 {
+  width: 231px;
+  height: 3px;
+  transform-origin: left center 0px;
+  margin: -11px 214px 0 auto;
+}
+
+.u-section-1 .u-shape-4 {
+  width: 19px;
+  height: 19px;
+  background-image: none;
+  margin: 119px 999px 0 auto;
+}
+
+.u-section-1 .u-shape-5 {
+  width: 19px;
+  height: 19px;
+  background-image: none;
+  margin: -19px 955px 0 auto;
+}
+
+.u-section-1 .u-shape-6 {
+  width: 19px;
+  height: 19px;
+  background-image: none;
+  margin: -19px 911px 60px auto;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 618px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-right: 98px;
+    margin-left: 596px;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-right: 34px;
+    margin-left: 596px;
+  }
+
+  .u-section-1 .u-shape-4 {
+    margin-right: 921px;
+  }
+
+  .u-section-1 .u-shape-5 {
+    margin-right: 921px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 473px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-right: 0;
+    margin-left: 474px;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-right: 0;
+    margin-left: 474px;
+  }
+
+  .u-section-1 .u-shape-4 {
+    margin-right: 701px;
+  }
+
+  .u-section-1 .u-shape-5 {
+    margin-right: 701px;
+  }
+
+  .u-section-1 .u-shape-6 {
+    margin-right: 701px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 355px;
+  }
+
+  .u-section-1 .u-image-1 {
+    margin-left: 190px;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 3.75rem;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-left: 294px;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-left: 294px;
+  }
+
+  .u-section-1 .u-shape-4 {
+    margin-right: 521px;
+  }
+
+  .u-section-1 .u-shape-5 {
+    margin-right: 521px;
+  }
+
+  .u-section-1 .u-shape-6 {
+    margin-right: 521px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 208px;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 340px;
+    height: 546px;
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 3rem;
+    margin-top: -397px;
+    margin-right: 101px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-left: 94px;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-left: 94px;
+  }
+
+  .u-section-1 .u-line-1 {
+    margin-right: 109px;
+  }
+
+  .u-section-1 .u-shape-4 {
+    margin-right: 321px;
+  }
+
+  .u-section-1 .u-shape-5 {
+    margin-right: 321px;
+  }
+
+  .u-section-1 .u-shape-6 {
+    margin-right: 321px;
+  }
+} .u-section-2 {
+  background-image: url("images/73117323-grunge-luz-gris-de-la-textura-de-baldosas-de-piedra-de-mrmol-patrn-natural-nica-verdadera.webp");
+  background-position: 50% 50%;
+}
+
+.u-section-2 .u-sheet-1 {
+  min-height: 784px;
+}
+
+.u-section-2 .u-btn-1 {
+  border-style: solid;
+  font-size: 1.875rem;
+  margin: 59px 0 0 auto;
+  padding: 0 22px 1px;
+}
+
+.u-section-2 .u-icon-1 {
+  color: rgb(0, 0, 0) !important;
+  font-size: 1.5em;
+}
+
+.u-section-2 .u-text-1 {
+  font-size: 3rem;
+  font-family: MagnoliaScript;
+  font-weight: normal;
+  width: 285px;
+  margin: -66px auto 0;
+}
+
+.u-section-2 .u-list-1 {
+  width: 1112px;
+  margin: 50px auto 0;
+}
+
+.u-section-2 .u-repeater-1 {
+  min-height: 399px;
+  grid-template-columns: calc(33.3333% - 72.6667px) calc(33.3333% - 72.6667px) calc(33.3333% - 72.6667px);
+  grid-gap: 109px 109px;
+}
+
+.u-section-2 .u-container-layout-1 {
+  padding: 0;
+}
+
+.u-section-2 .u-image-1 {
+  height: 379px;
+  width: 287px;
+  margin: 10px auto 0;
+}
+
+.u-section-2 .u-container-layout-2 {
+  padding: 0;
+}
+
+.u-section-2 .u-image-2 {
+  height: 379px;
+  width: 287px;
+  margin: 10px auto 0;
+}
+
+.u-section-2 .u-container-layout-3 {
+  padding: 0;
+}
+
+.u-section-2 .u-image-3 {
+  height: 379px;
+  width: 287px;
+  margin: 10px auto 0;
+}
+
+.u-section-2 .u-text-2 {
+  font-family: Amaranth-BoldItalic;
+  font-size: 1.875rem;
+  font-style: normal;
+  font-weight: normal;
+  margin: -3px 974px 0 14px;
+}
+
+.u-section-2 .u-text-3 {
+  font-size: 1.875rem;
+  font-style: normal;
+  text-align: start;
+  font-weight: normal;
+  font-family: Anaktoria;
+  margin: -4px 802px 0 14px;
+}
+
+.u-section-2 .u-text-4 {
+  text-align: start;
+  font-size: 1.5625rem;
+  font-family: Amaranth-BoldItalic;
+  font-style: normal;
+  font-weight: normal;
+  margin: -75px 848px 0 226px;
+}
+
+.u-section-2 .u-text-5 {
+  font-family: Amaranth-BoldItalic;
+  font-size: 1.875rem;
+  font-style: normal;
+  font-weight: normal;
+  text-align: start;
+  margin: -12px 160px 0 828px;
+}
+
+.u-section-2 .u-text-6 {
+  font-size: 1.875rem;
+  font-style: normal;
+  text-align: start;
+  font-weight: normal;
+  font-family: Anaktoria;
+  margin: -4px -12px 0 828px;
+}
+
+.u-section-2 .u-text-7 {
+  font-family: Amaranth-BoldItalic;
+  font-size: 1.875rem;
+  font-style: normal;
+  font-weight: normal;
+  text-align: start;
+  margin: -77px 561px 0 428px;
+}
+
+.u-section-2 .u-text-8 {
+  font-size: 1.875rem;
+  font-style: normal;
+  text-align: start;
+  font-weight: normal;
+  font-family: Anaktoria;
+  margin: -4px 389px 0 428px;
+}
+
+.u-section-2 .u-text-9 {
+  text-align: start;
+  font-size: 1.5625rem;
+  font-family: Amaranth-BoldItalic;
+  margin: -75px 34px 0 1040px;
+}
+
+.u-section-2 .u-text-10 {
+  text-align: start;
+  font-size: 1.5625rem;
+  font-family: Amaranth-BoldItalic;
+  margin: -27px 427px 60px 647px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 646px;
+  }
+
+  .u-section-2 .u-btn-1 {
+    padding-top: 12px;
+    padding-bottom: 14px;
+  }
+
+  .u-section-2 .u-list-1 {
+    width: 940px;
+  }
+
+  .u-section-2 .u-repeater-1 {
+    min-height: 337px;
+  }
+
+  .u-section-2 .u-image-1 {
+    height: 380px;
+  }
+
+  .u-section-2 .u-text-2 {
+    margin-right: 788px;
+    margin-left: 0;
+  }
+
+  .u-section-2 .u-text-3 {
+    margin-right: 616px;
+    margin-left: 0;
+  }
+
+  .u-section-2 .u-text-4 {
+    margin-right: 748px;
+    margin-left: 126px;
+  }
+
+  .u-section-2 .u-text-5 {
+    margin-right: 60px;
+    margin-left: 728px;
+  }
+
+  .u-section-2 .u-text-6 {
+    margin-left: 728px;
+  }
+
+  .u-section-2 .u-text-7 {
+    margin-right: 461px;
+    margin-left: 328px;
+  }
+
+  .u-section-2 .u-text-8 {
+    margin-right: 289px;
+    margin-left: 328px;
+  }
+
+  .u-section-2 .u-text-9 {
+    margin-right: 0;
+    margin-left: 874px;
+  }
+
+  .u-section-2 .u-text-10 {
+    margin-right: 327px;
+    margin-left: 547px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 495px;
+  }
+
+  .u-section-2 .u-list-1 {
+    width: 720px;
+  }
+
+  .u-section-2 .u-repeater-1 {
+    min-height: 774px;
+    grid-template-columns: calc(50% - 54.5px) calc(50% - 54.5px);
+  }
+
+  .u-section-2 .u-text-2 {
+    margin-right: 568px;
+  }
+
+  .u-section-2 .u-text-3 {
+    margin-right: 396px;
+  }
+
+  .u-section-2 .u-text-4 {
+    margin-right: 638px;
+    margin-left: 16px;
+  }
+
+  .u-section-2 .u-text-5 {
+    margin-right: 0;
+    margin-left: 568px;
+  }
+
+  .u-section-2 .u-text-6 {
+    margin-left: 568px;
+  }
+
+  .u-section-2 .u-text-7 {
+    margin-right: 351px;
+    margin-left: 218px;
+  }
+
+  .u-section-2 .u-text-8 {
+    margin-right: 179px;
+    margin-left: 218px;
+  }
+
+  .u-section-2 .u-text-9 {
+    margin-left: 654px;
+  }
+
+  .u-section-2 .u-text-10 {
+    margin-right: 217px;
+    margin-left: 437px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 371px;
+  }
+
+  .u-section-2 .u-list-1 {
+    width: 540px;
+  }
+
+  .u-section-2 .u-repeater-1 {
+    grid-template-columns: 100%;
+  }
+
+  .u-section-2 .u-text-2 {
+    margin-right: 388px;
+  }
+
+  .u-section-2 .u-text-3 {
+    margin-right: 216px;
+  }
+
+  .u-section-2 .u-text-4 {
+    margin-right: 474px;
+    margin-left: 0;
+  }
+
+  .u-section-2 .u-text-5 {
+    margin-left: 388px;
+  }
+
+  .u-section-2 .u-text-6 {
+    margin-left: 388px;
+  }
+
+  .u-section-2 .u-text-7 {
+    margin-right: 261px;
+    margin-left: 128px;
+  }
+
+  .u-section-2 .u-text-8 {
+    margin-right: 89px;
+    margin-left: 128px;
+  }
+
+  .u-section-2 .u-text-9 {
+    margin-left: 474px;
+  }
+
+  .u-section-2 .u-text-10 {
+    margin-right: 127px;
+    margin-left: 347px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 234px;
+  }
+
+  .u-section-2 .u-list-1 {
+    width: 340px;
+  }
+
+  .u-section-2 .u-text-2 {
+    font-size: 1.5rem;
+    margin-right: 188px;
+  }
+
+  .u-section-2 .u-text-3 {
+    margin-right: 16px;
+  }
+
+  .u-section-2 .u-text-4 {
+    font-size: 1.5rem;
+    margin-right: 274px;
+  }
+
+  .u-section-2 .u-text-5 {
+    font-size: 1.5rem;
+    margin-left: 188px;
+  }
+
+  .u-section-2 .u-text-6 {
+    margin-left: 188px;
+  }
+
+  .u-section-2 .u-text-7 {
+    font-size: 1.5rem;
+    margin-right: 161px;
+    margin-left: 28px;
+  }
+
+  .u-section-2 .u-text-8 {
+    margin-right: 0;
+    margin-left: 28px;
+  }
+
+  .u-section-2 .u-text-9 {
+    font-size: 1.5rem;
+    margin-left: 274px;
+  }
+
+  .u-section-2 .u-text-10 {
+    font-size: 1.5rem;
+    margin-right: 27px;
+    margin-left: 247px;
+  }
+} .u-section-3 {
+  background-image: url("images/fondo-de-la-textura-del-amarillo-de-la-mostaza-del-safari-97845059.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-3 .u-sheet-1 {
+  min-height: 750px;
+}
+
+.u-section-3 .u-gallery-1 {
+  height: 453px;
+  width: 1145px;
+  margin: 60px -22px 60px auto;
+}
+
+.u-section-3 .u-gallery-item-1 {
+  margin-right: 10px;
+}
+
+.u-section-3 .u-over-slide-1 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2));
+  padding: 20px;
+}
+
+.u-section-3 .u-gallery-item-2 {
+  margin-right: 10px;
+}
+
+.u-section-3 .u-over-slide-2 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2));
+  padding: 20px;
+}
+
+.u-section-3 .u-gallery-item-3 {
+  margin-right: 10px;
+}
+
+.u-section-3 .u-over-slide-3 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2));
+  padding: 20px;
+}
+
+.u-section-3 .u-gallery-item-4 {
+  margin-right: 10px;
+}
+
+.u-section-3 .u-over-slide-4 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2));
+  padding: 20px;
+}
+
+.u-section-3 .u-gallery-item-5 {
+  margin-right: 10px;
+}
+
+.u-section-3 .u-over-slide-5 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2));
+  padding: 20px;
+}
+
+.u-section-3 .u-gallery-nav-1 {
+  position: absolute;
+  left: 10px;
+  width: 40px;
+  height: 40px;
+}
+
+.u-section-3 .u-gallery-nav-2 {
+  position: absolute;
+  right: 10px;
+  width: 40px;
+  height: 40px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 618px;
+  }
+
+  .u-section-3 .u-gallery-1 {
+    width: 940px;
+    margin-right: 0;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 473px;
+  }
+
+  .u-section-3 .u-gallery-1 {
+    width: 720px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 355px;
+  }
+
+  .u-section-3 .u-gallery-1 {
+    width: 540px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 224px;
+  }
+
+  .u-section-3 .u-gallery-1 {
+    width: 340px;
+  }
+} .u-section-4 {
+  background-image: url("images/73117323-grunge-luz-gris-de-la-textura-de-baldosas-de-piedra-de-mrmol-patrn-natural-nica-verdadera.webp");
+  background-position: 50% 50%;
+}
+
+.u-section-4 .u-sheet-1 {
+  min-height: 751px;
+}
+
+.u-section-4 .u-text-1 {
+  font-size: 3.125rem;
+  text-transform: none;
+  font-family: MagnoliaScript;
+  margin: 122px auto 0;
+}
+
+.u-section-4 .u-line-1 {
+  width: 912px;
+  height: 3px;
+  margin: 36px auto 0;
+}
+
+.u-section-4 .u-text-2 {
+  line-height: 1.2;
+  font-size: 1.875rem;
+  font-family: Anaktoria;
+  width: 880px;
+  margin: 28px auto 0;
+}
+
+.u-section-4 .u-line-2 {
+  width: 912px;
+  height: 3px;
+  margin: 28px auto 0;
+}
+
+.u-section-4 .u-image-1 {
+  width: 704px;
+  height: 150px;
+  margin: 28px auto 60px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-4 .u-sheet-1 {
+    min-height: 619px;
+  }
+
+  .u-section-4 .u-text-2 {
+    margin-left: 30px;
+    margin-right: 30px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-4 .u-sheet-1 {
+    min-height: 474px;
+  }
+
+  .u-section-4 .u-line-1 {
+    width: 720px;
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .u-section-4 .u-text-2 {
+    margin-left: 0;
+    margin-right: 0;
+    width: 720px;
+  }
+
+  .u-section-4 .u-line-2 {
+    width: 720px;
+    margin-left: 0;
+    margin-right: 0;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-4 .u-sheet-1 {
+    min-height: 321px;
+  }
+
+  .u-section-4 .u-line-1 {
+    width: 540px;
+  }
+
+  .u-section-4 .u-text-2 {
+    width: 540px;
+  }
+
+  .u-section-4 .u-line-2 {
+    width: 540px;
+  }
+
+  .u-section-4 .u-image-1 {
+    width: 5400px;
+    height: 115px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-4 .u-sheet-1 {
+    min-height: 278px;
+  }
+
+  .u-section-4 .u-text-1 {
+    font-size: 3rem;
+    margin-left: 13px;
+    margin-right: 13px;
+  }
+
+  .u-section-4 .u-line-1 {
+    width: 340px;
+  }
+
+  .u-section-4 .u-text-2 {
+    width: 340px;
+  }
+
+  .u-section-4 .u-line-2 {
+    width: 340px;
+  }
+
+  .u-section-4 .u-image-1 {
+    width: 340px;
+    height: 72px;
+  }
+}@font-face {
+  font-family: 'MagnoliaScript';
+  font-style: normal;
+  font-weight: 400;
+  src: url(fonts/MagnoliaScript.otf);
+}@font-face {
+  font-family: 'Amaranth-BoldItalic';
+  font-style: normal;
+  font-weight: 400;
+  src: url(fonts/Amaranth-BoldItalic.ttf);
+}@font-face {
+  font-family: 'Anaktoria';
+  font-style: normal;
+  font-weight: 400;
+  src: url(fonts/Anaktoria.otf);
+}
